@@ -1,1 +1,1 @@
-# sayin-berke
+# Welcome to my personal website. I'd be grateful if you could give me any kind of feedback! :)
