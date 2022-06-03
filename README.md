@@ -1,4 +1,4 @@
-# Welcome to my personal website. I'd be grateful if you could give me any kind of feedback! :)
+## Welcome to my personal website. I'd be grateful if you could give me any kind of feedback! :)
 
-#### Live
+### Live
 https://sayinberkesayin.netlify.app/
